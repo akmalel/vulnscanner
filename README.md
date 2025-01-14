@@ -10,8 +10,7 @@ SQL Injection Detection: Test for potential SQL Injection vulnerabilities.
 XSS Detection: Check for Cross-Site Scripting vulnerabilities.
 HTML Reporting: Generate a timestamped report summarizing vulnerabilities.
 
-Installation
-
+Installation: 
 Install required dependencies:
 pip install python-nmap requests beautifulsoup4 colorama
 
