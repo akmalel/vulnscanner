@@ -14,6 +14,8 @@ Installation:
 Install required dependencies:
 pip install python-nmap requests beautifulsoup4 colorama
 
+MacOS: pip3 install --user python-nmap requests beautifulsoup4 colorama
+
 Ensure Nmap is installed and added to your system's PATH.
 
 Usage
